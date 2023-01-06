@@ -131,3 +131,6 @@ dmypy.json
 
 # generated html
 html/
+
+# MacOS
+.DS_Store

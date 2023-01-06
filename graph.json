@@ -1,0 +1,42 @@
+{
+  "central": {
+    "related": {
+      "sub1": {
+        "value": 1
+      },
+      "sub2": {
+        "value": 2
+      }
+    }
+  },
+  "node2": {
+    "related": {
+      "central": {
+        "value": 11
+      },
+      "node3": {
+        "value": 22
+      }
+    }
+  },
+  "node3": {
+    "related": {
+      "central": {
+        "value": 11
+      },
+      "sub2": {
+        "value": 222
+      }
+    }
+  },
+  "node4": {
+    "related": {
+      "central": {
+        "value": 11
+      },
+      "sub2": {
+        "value": 2222
+      }
+    }
+  }
+}
